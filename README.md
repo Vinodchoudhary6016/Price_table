@@ -4,7 +4,7 @@
 
 The Flexbox Pricing Table is a web-based application designed to present various subscription plans in a visually appealing and responsive layout. Utilizing the CSS Flexbox model, this project demonstrates how to create a structured and adaptable pricing table that adjusts seamlessly across different screen sizes.
 
-![Alt text](SAMPLE1.png)
+![Pricing Table](SAMPLE1.png)
 
 ## Objectives
 
